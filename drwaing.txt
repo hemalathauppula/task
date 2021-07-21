@@ -8,3 +8,4 @@ wishes
  ADDED NEW LINE
  
  cute
+ CONFLICT
